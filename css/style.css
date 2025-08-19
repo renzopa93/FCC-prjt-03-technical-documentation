@@ -88,7 +88,10 @@ section ul li::before {
 }
 .table-container {
   width: 100%;
+  overflow: hidden;
   overflow-x: auto;
+  overflow-y: hidden;
+  border-radius: 5px;
 }
 table {
   width: 100%;
@@ -191,8 +194,6 @@ code{
   table {
     font-size: 0.9rem;
     margin-top: 15px;
-    border-radius: 5px;
-    overflow: hidden;
   }
   
   th, td {
@@ -288,12 +289,8 @@ code{
     font-size: 1.2rem;
   }
 
-  .main-section p {
-    font-size: 0.9rem;
-  }
-
-  .main-section li { 
-    font-size: 0.9rem;
+  .main-section p, .main-section li {
+    font-size: 0.95rem;
     line-height: 1.6;
   }
 
