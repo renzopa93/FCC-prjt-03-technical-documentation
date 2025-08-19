@@ -17,7 +17,7 @@ sidebar navigation, and responsive behavior using only HTML and CSS.
 
 ## Live Demo
 
-See it live: [Technical Documentation Page](#)
+See it live: [Technical Documentation Page](https://renzopa93.github.io/FCC-prjt-03-technical-documentation/)
 
 ## What I Learned
 
